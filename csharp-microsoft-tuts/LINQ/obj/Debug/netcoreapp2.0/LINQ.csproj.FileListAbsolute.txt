@@ -1,0 +1,10 @@
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\LINQ\obj\Debug\netcoreapp2.0\LINQ.csproj.CoreCompileInputs.cache
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\LINQ\obj\Debug\netcoreapp2.0\LINQ.AssemblyInfoInputs.cache
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\LINQ\obj\Debug\netcoreapp2.0\LINQ.AssemblyInfo.cs
+C:\Users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\LINQ\bin\Debug\netcoreapp2.0\LINQ.deps.json
+C:\Users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\LINQ\bin\Debug\netcoreapp2.0\LINQ.runtimeconfig.json
+C:\Users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\LINQ\bin\Debug\netcoreapp2.0\LINQ.runtimeconfig.dev.json
+C:\Users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\LINQ\bin\Debug\netcoreapp2.0\LINQ.dll
+C:\Users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\LINQ\bin\Debug\netcoreapp2.0\LINQ.pdb
+C:\Users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\LINQ\obj\Debug\netcoreapp2.0\LINQ.dll
+C:\Users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\LINQ\obj\Debug\netcoreapp2.0\LINQ.pdb

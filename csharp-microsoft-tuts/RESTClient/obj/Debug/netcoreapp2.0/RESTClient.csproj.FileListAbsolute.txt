@@ -1,0 +1,10 @@
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\RESTClient\bin\Debug\netcoreapp2.0\RESTClient.deps.json
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\RESTClient\bin\Debug\netcoreapp2.0\RESTClient.runtimeconfig.json
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\RESTClient\bin\Debug\netcoreapp2.0\RESTClient.runtimeconfig.dev.json
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\RESTClient\bin\Debug\netcoreapp2.0\RESTClient.dll
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\RESTClient\bin\Debug\netcoreapp2.0\RESTClient.pdb
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\RESTClient\obj\Debug\netcoreapp2.0\RESTClient.csproj.CoreCompileInputs.cache
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\RESTClient\obj\Debug\netcoreapp2.0\RESTClient.AssemblyInfoInputs.cache
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\RESTClient\obj\Debug\netcoreapp2.0\RESTClient.AssemblyInfo.cs
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\RESTClient\obj\Debug\netcoreapp2.0\RESTClient.dll
+C:\users\tomwil\Documents\Github\CSharpTraining\csharp-microsoft-tuts\RESTClient\obj\Debug\netcoreapp2.0\RESTClient.pdb

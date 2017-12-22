@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\users\tomwil\Documents\github\CSharpTraining\Services\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\users\tomwil\Documents\github\CSharpTraining\Services\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+   logfile = C:\users\tomwil\Documents\github\CSharpTraining\Services\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+Installing service MyNewService...
+Service MyNewService has been successfully installed.
+Creating EventLog source MyNewService in log Application...
+Committing assembly 'C:\users\tomwil\Documents\github\CSharpTraining\Services\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\users\tomwil\Documents\github\CSharpTraining\Services\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+   logfile = C:\users\tomwil\Documents\github\CSharpTraining\Services\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog

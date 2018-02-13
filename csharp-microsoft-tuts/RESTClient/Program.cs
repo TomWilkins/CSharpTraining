@@ -9,6 +9,7 @@ namespace RESTClient
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             string user = "dotnet";
@@ -16,6 +17,7 @@ namespace RESTClient
             {
                 user = args[0];
             }
+
 
             Console.WriteLine("Finding Github repos for {0}", user);
 

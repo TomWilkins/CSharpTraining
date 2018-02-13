@@ -1,0 +1,5 @@
+C:\Users\tomwil\Documents\Github\CSharpTraining\Services\AppLogger\AppLogger\bin\Debug\AppLogger.dll
+C:\Users\tomwil\Documents\Github\CSharpTraining\Services\AppLogger\AppLogger\bin\Debug\AppLogger.pdb
+C:\Users\tomwil\Documents\Github\CSharpTraining\Services\AppLogger\AppLogger\obj\Debug\AppLogger.csprojResolveAssemblyReference.cache
+C:\Users\tomwil\Documents\Github\CSharpTraining\Services\AppLogger\AppLogger\obj\Debug\AppLogger.dll
+C:\Users\tomwil\Documents\Github\CSharpTraining\Services\AppLogger\AppLogger\obj\Debug\AppLogger.pdb

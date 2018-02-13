@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>John.Smith.AppLogger</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>tester</authors>
+    <owners>tester</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>AppLoggerMcLoggerFace</description>
+    <releaseNotes>This is a sample project</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>application app logger logging logs</tags>
+  </metadata>
+</package>

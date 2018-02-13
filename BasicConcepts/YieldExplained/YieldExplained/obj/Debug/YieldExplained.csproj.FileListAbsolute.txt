@@ -1,0 +1,1 @@
+C:\Users\tomwil\Documents\Github\CSharpTraining\BasicConcepts\YieldExplained\YieldExplained\bin\Debug\YieldExplained.exe.config

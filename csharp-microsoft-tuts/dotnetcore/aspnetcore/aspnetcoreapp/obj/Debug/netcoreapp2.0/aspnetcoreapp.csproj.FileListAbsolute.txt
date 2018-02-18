@@ -1,0 +1,11 @@
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.deps.json
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.runtimeconfig.json
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.runtimeconfig.dev.json
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.dll
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/aspnetcoreapp/bin/Debug/netcoreapp2.0/aspnetcoreapp.pdb
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.csproj.CoreCompileInputs.cache
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.AssemblyInfoInputs.cache
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.AssemblyInfo.cs
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.dll
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.pdb
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/aspnetcoreapp/obj/Debug/netcoreapp2.0/aspnetcoreapp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{944F49FE-6C88-48DD-92ED-C12C92AB0B7B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/About.cshtml">
+    <Files>
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="6" Column="14" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="aspnetcoreapp.csproj" Line="1" Column="1" />
+      <File FileName="aspnetcoreapp.sln" Line="1" Column="1" />
+      <File FileName="aspnetcoreapp.userprefs" Line="1" Column="1" />
+      <File FileName="bundleconfig.json" Line="1" Column="1" />
+      <File FileName="Pages/About.cshtml" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.aspnetcoreapp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

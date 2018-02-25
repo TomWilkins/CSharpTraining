@@ -1,0 +1,11 @@
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.deps.json
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.runtimeconfig.json
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.runtimeconfig.dev.json
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.dll
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.pdb
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.csproj.CoreCompileInputs.cache
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.AssemblyInfoInputs.cache
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.AssemblyInfo.cs
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.dll
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.pdb
+/Users/tomwilkins/Documents/Computing/github_repos/CSharpTraining/csharp-microsoft-tuts/dotnetcore/aspnetcore/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.csprojResolveAssemblyReference.cache

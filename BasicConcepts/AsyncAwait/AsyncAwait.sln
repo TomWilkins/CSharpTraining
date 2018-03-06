@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{073855C5-4B1D-4253-B2A2-04510835DC01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{073855C5-4B1D-4253-B2A2-04510835DC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073855C5-4B1D-4253-B2A2-04510835DC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073855C5-4B1D-4253-B2A2-04510835DC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073855C5-4B1D-4253-B2A2-04510835DC01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
